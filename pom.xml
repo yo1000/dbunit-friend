@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>dbunit-friend</name>
-    <description>DBUnit based setup support library</description>
+    <description>Convert user-friendly inline CSV into table data using DBUnit</description>
     <url>https://github.com/yo1000/dbunit-friend</url>
 
     <licenses>
